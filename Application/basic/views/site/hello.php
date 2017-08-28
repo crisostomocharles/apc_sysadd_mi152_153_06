@@ -1,2 +1,2 @@
-<h1>Welcome To Housekeeping System</h1>
+<h1>Welcome to Housekeeping System</h1>
 <?= $name; ?>
