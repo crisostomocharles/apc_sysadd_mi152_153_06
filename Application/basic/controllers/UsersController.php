@@ -8,6 +8,8 @@ use app\models\Users;
 class UsersController extends Controller{
 	
 	public function actionIndex(){
-		echo "testing";
+		$users = Users::find()->all();
+		
+		$this->render('index',['users'=>$users]);
 	}
 }
