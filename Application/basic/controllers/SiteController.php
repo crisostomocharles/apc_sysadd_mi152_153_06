@@ -137,6 +137,6 @@ class SiteController extends Controller
 	{
 		Yii::$app->session->setFlash('success','You have entered the data correctly');
 	}
-	return $this->render('userForm',['model'=>$model]);
+	 return $this->render('userForm',['model'=>$model]);
 	}
 }
