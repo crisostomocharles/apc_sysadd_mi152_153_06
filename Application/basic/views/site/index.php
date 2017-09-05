@@ -37,10 +37,12 @@ $this->title = 'My Yii Application';
             <div class="col-lg-4">
                 <h2>About Taal Vista</h2>
 
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-                    dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-                    ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-                    fugiat nulla pariatur.</p>
+                <p>In the 1920’s General Emilio Aguinaldo often rode through Tagaytay on horseback, and it is through him that 
+				the story of how Tagaytay got its name is told. As the story goes: A soldier approached a boy and his father asking 
+				about the name of the place. The frightened son shouted to his father, “Taga, Itay!” which meant “Strike, Father!”,
+				and the foreigner, misunderstanding the words,   thought  that  this  was what  the area was called,    
+				thus giving birth  to the name: Tagaytay.
+				.</p>
 
                 <p><a class="btn btn-default" href="http://www.yiiframework.com/forum/">Yii Forum &raquo;</a></p>
             </div>
