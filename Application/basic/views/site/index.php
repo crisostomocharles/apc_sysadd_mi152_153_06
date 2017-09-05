@@ -18,12 +18,19 @@ $this->title = 'My Yii Application';
 
         <div class="row">
             <div class="col-lg-4">
-                <h2>Heading</h2>
+                <h2>About the project</h2>
 
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-                    dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-                    ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-                    fugiat nulla pariatur.</p>
+                <p>The group's project is Hotel Housekeeping task sheet that will help to develop the current system of the client. 
+				Taal Vista Hotel is the chosen client which is owned by SM Hotels and Conventions Corporation (SHMCC). 
+				The client's current process manually creates task sheets for every room which consumes a lot of time. 
+				The group's project will improve the current process by building a fully automated system that will help 
+				the housekeeping staff do their respective work more efficiently. The proposed system is going to be the 
+				creation of task sheet using mobile application and its features are tracking the employee's time duration of 
+				the cleaning sequence. Not all rooms have the same task to do because rooms have many different types an example o
+				f this is a deluxe room, single, and many more. The group’s project also includes the type of task sheets depending 
+				on the type of the rooms. QR code (Quick Response) will be implemented in each room as well as their employee ID which
+				can make the current system be more reliable because having a QR code in employee ID and rooms it will save time and 
+				lessen the use of paper</p>
 
                 <p><a class="btn btn-default" href="http://www.yiiframework.com/doc/">Yii Documentation &raquo;</a></p>
             </div>
